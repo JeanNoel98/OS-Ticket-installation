@@ -32,16 +32,16 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 Step 1
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+First you will need to run control panel as an admin in order to enable IIS(internet information services) inside of windows programs with CGI.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3nxkQGN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 Step 1
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+You can test to make sure everything is enabled by typing in 127.0.0.1 into your web browser and you should be greeted with the above page. If you get an error message or page not found, go back and make sure all programs match the ones enabled in the previous image.
 </p>
 <br />
 
