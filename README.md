@@ -25,7 +25,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Windows 10</b> (21H2)
 
-@@ -27,11 +32,24 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>
 <img src="https://i.imgur.com/OtNxGkK.png" height="80%" width="80%" alt="control panel setup Steps"/>
@@ -46,10 +45,12 @@ You can test to make sure everything is enabled by typing in 127.0.0.1 into your
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/B6p9Bro.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<img src="https://i.imgur.com/IQmAbsy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+OS ticket runs off of PHP so we will then install the PHP manager for IIS onto the desktop.  Now that IIS is installed and enabled next is to download and install some of the prerequisite files needed in order to operate OS Ticket Such as PHP manager and Rewrite module
 </p>
 <br />
 
