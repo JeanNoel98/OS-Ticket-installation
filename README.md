@@ -28,7 +28,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 @@ -27,11 +32,24 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>
-<img src="https://imgur.com/OtNxGkK" height="80%" width="80%" alt="control panel setup Steps"/>
+<img src="https://i.imgur.com/OtNxGkK.png" height="80%" width="80%" alt="control panel setup Steps"/>
 Step 1
 </p>
 <p>
