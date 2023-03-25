@@ -24,7 +24,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
-
+<h2> Setup process </h2>
 
 <p>
 <img src="https://i.imgur.com/OtNxGkK.png" height="80%" width="80%" alt="control panel setup Steps"/>
